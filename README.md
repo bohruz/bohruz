@@ -47,9 +47,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+---
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/michaelhenrique/"><img src="https://img.shields.io/badge/-Michael%20Henrique-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:oliveirasantos.mh@gmail.com"><img src="https://img.shields.io/badge/-oliveirasantos.mh@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>

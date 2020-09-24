@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
@@ -41,8 +42,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/bohruz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bohruz&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bohruz&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bohruz&show_icons=true&include_all_commits=true&count_private=true "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bohruz&layout=compact&langs_count=8&hide=java,r "/>
 </a>
 </p>
 

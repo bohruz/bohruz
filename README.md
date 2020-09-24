@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;

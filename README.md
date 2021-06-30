@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;Studying Electrical engineering at Federal Center for Technological Education.\
+🎓 &nbsp;Electrical engineer.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.
 
 ### 🛠 &nbsp;Tech Stack
